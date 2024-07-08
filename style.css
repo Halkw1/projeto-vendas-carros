@@ -101,7 +101,8 @@ section {
                     color: black;
                     cursor: pointer;
                     font-weight: bold;
-                    font-family: 'League Gothic', sans-serif
+                    font-family: 'League Gothic', sans-serif;
+                    
                 }
             }
         }
@@ -183,6 +184,7 @@ section {
 
             &:hover {
                 background-color: #beff1b;
+                
             }
         }
     }
